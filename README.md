@@ -1,4 +1,4 @@
-#devops-netology
+#devops-netology  
 В файле ./Terraform/.gitignore правила игнорирования файлов:  
 в папках .terraform  
 заканчивающиеся на .tfstate  
