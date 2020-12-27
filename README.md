@@ -11,3 +11,5 @@ override.tf.json
 заканчивающиеся на  _override.tf.json  
 .terraformrc  
 terraform.rc  
+
+this line added with PyCharm
